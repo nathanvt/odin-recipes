@@ -1,0 +1,58 @@
+/* Style CSS */
+
+body {
+    background-color: #eee;
+}
+
+h1 {
+    font-size: 48px;
+    font-family: Helvetica, Arial, sans-serif;
+    font font-weight: 700px;
+    color: blue;
+}
+
+h2 {
+    font-size: 28px;
+    font-family: Helvetica, Arial, sans-serif;
+    font font-weight: 400px;
+    color: #333;
+}
+
+img {
+    width: 300px;
+    height: auto;
+    opacity: 1.0;
+}
+
+img:hover {
+    opacity: 0.5;
+    transition: all 0.6 ease;
+}
+
+li {
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font font-weight: 500px;
+    color: #333;
+}
+
+p {
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font font-weight: 500px;
+    color: #333;
+}
+
+a {
+    font-size: 16px;
+    font-family: Helvetica, Arial, sans-serif;
+    font font-weight: 500px;
+    color: orange;
+}
+
+a:hover {
+    position: relative;
+    bottom: 2px;
+    color: yellow;
+    transition: all 0.5 ease;
+}
