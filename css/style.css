@@ -7,14 +7,14 @@ body {
 h1 {
     font-size: 48px;
     font-family: Helvetica, Arial, sans-serif;
-    font font-weight: 700px;
+    font-weight: 700px;
     color: blue;
 }
 
 h2 {
     font-size: 28px;
     font-family: Helvetica, Arial, sans-serif;
-    font font-weight: 400px;
+    font-weight: 400px;
     color: #333;
 }
 
@@ -32,21 +32,21 @@ img:hover {
 li {
     font-size: 16px;
     font-family: Helvetica, Arial, sans-serif;
-    font font-weight: 500px;
+    font-weight: 500px;
     color: #333;
 }
 
 p {
     font-size: 16px;
     font-family: Helvetica, Arial, sans-serif;
-    font font-weight: 500px;
+    font-weight: 500px;
     color: #333;
 }
 
 a {
     font-size: 16px;
     font-family: Helvetica, Arial, sans-serif;
-    font font-weight: 500px;
+    font-weight: 500px;
     color: orange;
 }
 
